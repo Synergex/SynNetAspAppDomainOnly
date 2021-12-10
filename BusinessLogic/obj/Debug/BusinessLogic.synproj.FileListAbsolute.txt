@@ -1,0 +1,14 @@
+D:\Dev\AppDomainProtection\SynNetAsp\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Dev\AppDomainProtection\SynNetAsp\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Dev\AppDomainProtection\SynNetAsp\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Dev\AppDomainProtection\SynNetAsp\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\Dev\AppDomainProtection\SynNetAsp\BusinessLogic\obj\Debug\BusinessLogic.synprojResolveAssemblyReference.cache
+D:\Dev\Demos\WEB\SynNetAsp\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Dev\Demos\WEB\SynNetAsp\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Dev\Demos\WEB\SynNetAsp\BusinessLogic\obj\Debug\BusinessLogic.synprojResolveAssemblyReference.cache
+D:\Dev\Demos\WEB\SynNetAsp\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Dev\Demos\WEB\SynNetAsp\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\Dev\Demos\WEB\SynNetAspAppDomainOnly\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Dev\Demos\WEB\SynNetAspAppDomainOnly\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Dev\Demos\WEB\SynNetAspAppDomainOnly\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Dev\Demos\WEB\SynNetAspAppDomainOnly\BusinessLogic\obj\Debug\BusinessLogic.pdb

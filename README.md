@@ -1,0 +1,1 @@
+# SynNetAspAppDomainOnly
